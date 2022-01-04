@@ -2,7 +2,7 @@
 
 ## NPM SET UP
 
-[NPM LIST]
+npm i --save
 express
 cors
 pg
